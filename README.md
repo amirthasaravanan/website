@@ -71,9 +71,9 @@ page 3
 
 ```
 # OUTPUT:
-![alt text](../395771379-3cd8c098-98d7-4cd3-929e-9184cb79d75b.png) 
-![alt text](../395771392-76fdb987-e30e-4563-8c94-072d71f94f20.png) 
-![alt text](../395771407-220862b8-e50c-42fe-92d3-5456f46f461b.png) 
-![alt text](../395771457-3b4cec2b-4922-416c-af0a-f91dd67919f0.png)
+![alt text](395771379-3cd8c098-98d7-4cd3-929e-9184cb79d75b.png) 
+![alt text](395771392-76fdb987-e30e-4563-8c94-072d71f94f20.png) 
+![alt text](395771407-220862b8-e50c-42fe-92d3-5456f46f461b.png) 
+![alt text](395771457-3b4cec2b-4922-416c-af0a-f91dd67919f0.png)
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
